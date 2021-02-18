@@ -16,6 +16,9 @@ body {
 img {
   float: left;
   margin-left: 29px;
+  border-color: olivedrab;
+  border-style:solid;
+  border-radius: 5px;
 }
 
 #navbar li {
