@@ -1,0 +1,27 @@
+h1, h2 {
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+}
+
+body {
+  background-image: url(https://lushpalm.com/wp-content/uploads/2017/10/north-shore-surf-competition-vans-world-cup-surfing.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: 'Rajdhani', sans-serif;
+  color: ivory;
+}
+
+img {
+  float: left;
+  margin-left: 29px;
+}
+
+#navbar li {
+  display: inline;
+  margin-left: 74px;
+  margin-right: 74px;
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 15px;
+}
